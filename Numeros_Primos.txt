@@ -1,0 +1,46 @@
+#include <iostream>
+using namespace std;
+int main()
+//Hacer un programa donde nos diga si un numero es par o primo
+
+{
+
+    int numero,numero2;
+    cout<<"Dame el primer numero :"<<endl;
+    cin>>numero;
+
+    cout<<"Dame el segundo numero :"<<endl;
+    cin>>numero2;
+
+    cout<< numero / numero2 <<endl;
+
+    if (numero==numero2)
+    {
+        cout<<"El numero es primo"<<endl;
+    }
+    else
+    {
+        if( numero <numero2)
+        {
+
+            cout<<"El numero no es primo"<<endl;
+
+
+        }
+
+
+
+
+
+
+
+
+    }
+
+
+
+s
+
+
+    return 0;
+}
